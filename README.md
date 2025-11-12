@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 😄 Pronouns: He/Him
-- I currently work as C++ developer at [OZ Sports](https://ozsports.is/). I have worked on these repos [Digital Shadows Azure Sentinel](https://github.com/Azure/Azure-Sentinel/pull/4026) and [SentinelOne Azure Sentinel](https://github.com/Azure/Azure-Sentinel/pull/4000) while working for [Metron Security](https://www.metronlabs.com/) under username [shikhin-metron](https://github.com/shikhin-metron)
-- 🤔 I work on video systems, computer vision and CUDA stuff
-- 👀 I’m interested in C++, Python, graphics programming and audio technologies. Learning OpenGL right now.
+- I worked as C++ developer at [OZ Sports](https://ozsports.is/) where I worked on video systems, computer vision and CUDA stuff. I have previously worked on these repos [Digital Shadows Azure Sentinel](https://github.com/Azure/Azure-Sentinel/pull/4026) and [SentinelOne Azure Sentinel](https://github.com/Azure/Azure-Sentinel/pull/4000) while working for [Metron Security](https://www.metronlabs.com/) under username [shikhin-metron](https://github.com/shikhin-metron)
+- 👀 I’m interested in C, C++, CUDA, Python, graphics programming and audio technologies. Learning OpenGL right now.
+- I like contributing to open source every once in a while
 - 📫 How to reach me: shikhindah@gmail.com
 
 <!--
